@@ -1,4 +1,4 @@
-![Web Developer, Python Developer](https://github.com/MHMMD-ASHIF/MHMMD-ASHIF/blob/main/ashy.png)
+![Web Developer, Python Developer](https://github.com/MHMMD-ASHIF/MHMMD-ASHIF/blob/main/ashy2.png)
 
 Graduate of computer science with experience across the full-stack of software development.
 Looking for a role where I can grow and learn from experienced team members while drawing
