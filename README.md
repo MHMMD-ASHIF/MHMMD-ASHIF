@@ -1,6 +1,3 @@
-### Hi there 👋, 
-my name is Muhammed Ashif
-#### Web Developer, Python Developer
 ![Web Developer, Python Developer](https://github.com/MHMMD-ASHIF/MHMMD-ASHIF/blob/main/ashy.png)
 
 Graduate of computer science with experience across the full-stack of software development.
