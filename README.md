@@ -6,10 +6,10 @@ on project experience I have already successfully executed.
 
 Skills:  HTML / CSS / JAVASCRIPT / BOOTSTRAP / PYTHON / DJANGO / ADOBE XD
 
-- 👀 I’m interested in Python Development and web development
-- 🌱 I’m currently learning Python fullstack
-- 💞️ I’m looking to collaborate on git buddies
-- 📫 How to reach me infoline.helpzone@gmail.com
+-  I’m interested in Python Development and web development
+-  I’m currently learning Python fullstack
+-  I’m looking to collaborate on git buddies
+-  How to reach me infoline.helpzone@gmail.com
 
 
 
